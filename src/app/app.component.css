@@ -1,0 +1,16 @@
+.section {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+a {
+  cursor: pointer;
+}
+
+.navbar .nav-link.active {
+  color: #ffffff !important;
+  font-weight: bold;
+}
